@@ -1,0 +1,6 @@
+Candidate 4
+Location: San Francisco
+Software Professional with 19 years of experience specializing in TensorFlow, Azure, NoSQL.
+Education: Bachelors in Computer Science
+Skills: TensorFlow, Azure, NoSQL, nodejs, ML
+Projects: Developed a chatbot.

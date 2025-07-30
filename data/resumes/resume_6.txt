@@ -1,0 +1,6 @@
+Candidate 6
+Location: Seattle
+Software Professional with 26 years of experience specializing in Azure, TensorFlow, NoSQL.
+Education: PhD in Computer Science
+Skills: Azure, TensorFlow, NoSQL, Computer Vision, Docker
+Projects: Developed a data pipeline.

@@ -1,0 +1,6 @@
+Candidate 10
+Location: New York
+Software Professional with 27 years of experience specializing in Python, Java, GCP.
+Education: Bachelors in Computer Science
+Skills: Python, Java, GCP, NoSQL, Kubernetes
+Projects: Developed a web application.

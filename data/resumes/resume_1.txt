@@ -1,0 +1,6 @@
+Candidate 1
+Location: Seattle
+Software Professional with 0 years of experience specializing in expressjs, Kubernetes, Computer Vision.
+Education: PhD in Computer Science
+Skills: expressjs, Kubernetes, Computer Vision, SQL, Azure
+Projects: Developed a web application.
