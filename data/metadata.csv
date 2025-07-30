@@ -1,0 +1,501 @@
+resume_id,jd_id,experience,education,location,salary
+resume_1.txt,jd_1.txt,0,PhD,Seattle,60744
+resume_2.txt,jd_2.txt,8,Masters,Seattle,75443
+resume_3.txt,jd_3.txt,17,Masters,Chicago,74732
+resume_4.txt,jd_4.txt,19,Bachelors,San Francisco,91576
+resume_5.txt,jd_5.txt,8,Bachelors,Austin,49915
+resume_6.txt,jd_6.txt,26,PhD,Seattle,134887
+resume_7.txt,jd_7.txt,18,Masters,Austin,80723
+resume_8.txt,jd_8.txt,5,Bachelors,Atlanta,35219
+resume_9.txt,jd_9.txt,26,PhD,Chicago,105891
+resume_10.txt,jd_10.txt,27,Bachelors,New York,110227
+resume_11.txt,jd_11.txt,24,Bachelors,San Francisco,100015
+resume_12.txt,jd_12.txt,12,Bachelors,Denver,57054
+resume_13.txt,jd_13.txt,2,Bachelors,San Francisco,45043
+resume_14.txt,jd_14.txt,20,Masters,Denver,82913
+resume_15.txt,jd_15.txt,18,Bachelors,Austin,63294
+resume_16.txt,jd_16.txt,22,PhD,Austin,96472
+resume_17.txt,jd_17.txt,2,Masters,Atlanta,45560
+resume_18.txt,jd_18.txt,26,Bachelors,Austin,79705
+resume_19.txt,jd_19.txt,4,Masters,New York,63632
+resume_20.txt,jd_20.txt,28,Bachelors,New York,113284
+resume_21.txt,jd_21.txt,18,Masters,New York,97143
+resume_22.txt,jd_22.txt,11,PhD,Boston,67459
+resume_23.txt,jd_23.txt,23,Masters,Austin,87017
+resume_24.txt,jd_24.txt,4,Bachelors,Chicago,37386
+resume_25.txt,jd_25.txt,15,Masters,Atlanta,69781
+resume_26.txt,jd_26.txt,22,Masters,Denver,87123
+resume_27.txt,jd_27.txt,6,Masters,Chicago,50432
+resume_28.txt,jd_28.txt,4,Masters,Seattle,63029
+resume_29.txt,jd_29.txt,21,Masters,Boston,81287
+resume_30.txt,jd_30.txt,16,Bachelors,Austin,59590
+resume_31.txt,jd_31.txt,25,PhD,Boston,97839
+resume_32.txt,jd_32.txt,18,Bachelors,Austin,61780
+resume_33.txt,jd_33.txt,5,Masters,Atlanta,45411
+resume_34.txt,jd_34.txt,30,PhD,Seattle,142077
+resume_35.txt,jd_35.txt,4,Masters,Atlanta,47391
+resume_36.txt,jd_36.txt,26,PhD,Boston,105102
+resume_37.txt,jd_37.txt,28,PhD,Seattle,134040
+resume_38.txt,jd_38.txt,15,Bachelors,Chicago,60734
+resume_39.txt,jd_39.txt,25,Bachelors,Atlanta,82518
+resume_40.txt,jd_40.txt,2,Bachelors,Boston,33160
+resume_41.txt,jd_41.txt,0,PhD,Denver,47575
+resume_42.txt,jd_42.txt,7,PhD,Boston,65018
+resume_43.txt,jd_43.txt,27,Masters,Chicago,95426
+resume_44.txt,jd_44.txt,13,Bachelors,New York,74634
+resume_45.txt,jd_45.txt,11,Bachelors,San Francisco,65686
+resume_46.txt,jd_46.txt,12,PhD,Boston,75138
+resume_47.txt,jd_47.txt,8,PhD,Atlanta,64981
+resume_48.txt,jd_48.txt,27,Bachelors,San Francisco,109888
+resume_49.txt,jd_49.txt,27,PhD,Atlanta,108561
+resume_50.txt,jd_50.txt,22,PhD,Chicago,97924
+resume_51.txt,jd_51.txt,14,PhD,Boston,81657
+resume_52.txt,jd_52.txt,4,Masters,Seattle,60179
+resume_53.txt,jd_53.txt,1,Masters,Chicago,40382
+resume_54.txt,jd_54.txt,4,Masters,New York,60555
+resume_55.txt,jd_55.txt,9,Masters,New York,79759
+resume_56.txt,jd_56.txt,15,Bachelors,Denver,62306
+resume_57.txt,jd_57.txt,29,PhD,New York,138428
+resume_58.txt,jd_58.txt,30,Bachelors,Denver,91293
+resume_59.txt,jd_59.txt,7,PhD,Boston,63495
+resume_60.txt,jd_60.txt,9,Masters,Boston,61262
+resume_61.txt,jd_61.txt,7,PhD,Boston,66192
+resume_62.txt,jd_62.txt,11,Bachelors,San Francisco,64066
+resume_63.txt,jd_63.txt,25,Bachelors,San Francisco,101672
+resume_64.txt,jd_64.txt,3,PhD,San Francisco,72823
+resume_65.txt,jd_65.txt,20,Masters,Atlanta,76974
+resume_66.txt,jd_66.txt,23,Masters,Austin,82815
+resume_67.txt,jd_67.txt,11,Bachelors,Atlanta,51309
+resume_68.txt,jd_68.txt,16,Bachelors,New York,82694
+resume_69.txt,jd_69.txt,6,Masters,Chicago,49082
+resume_70.txt,jd_70.txt,4,Masters,Boston,43000
+resume_71.txt,jd_71.txt,15,PhD,Chicago,80149
+resume_72.txt,jd_72.txt,15,Masters,Chicago,66585
+resume_73.txt,jd_73.txt,21,Masters,New York,107226
+resume_74.txt,jd_74.txt,4,Masters,San Francisco,62456
+resume_75.txt,jd_75.txt,5,Masters,Seattle,68052
+resume_76.txt,jd_76.txt,17,Masters,New York,95499
+resume_77.txt,jd_77.txt,27,Bachelors,Atlanta,80194
+resume_78.txt,jd_78.txt,27,Bachelors,Austin,88310
+resume_79.txt,jd_79.txt,17,Masters,Denver,70946
+resume_80.txt,jd_80.txt,9,Bachelors,Seattle,67151
+resume_81.txt,jd_81.txt,14,Masters,Denver,71565
+resume_82.txt,jd_82.txt,2,Bachelors,Boston,35908
+resume_83.txt,jd_83.txt,30,PhD,New York,143272
+resume_84.txt,jd_84.txt,29,Masters,Austin,98519
+resume_85.txt,jd_85.txt,17,Masters,Boston,74451
+resume_86.txt,jd_86.txt,10,PhD,Austin,67301
+resume_87.txt,jd_87.txt,3,Masters,Seattle,60017
+resume_88.txt,jd_88.txt,14,Bachelors,Denver,59605
+resume_89.txt,jd_89.txt,20,Bachelors,Seattle,93189
+resume_90.txt,jd_90.txt,5,Masters,New York,63284
+resume_91.txt,jd_91.txt,17,Bachelors,Atlanta,67263
+resume_92.txt,jd_92.txt,28,PhD,Atlanta,105067
+resume_93.txt,jd_93.txt,13,Bachelors,San Francisco,74693
+resume_94.txt,jd_94.txt,3,Masters,Seattle,64529
+resume_95.txt,jd_95.txt,16,PhD,Denver,77617
+resume_96.txt,jd_96.txt,12,Bachelors,Seattle,71835
+resume_97.txt,jd_97.txt,28,PhD,Denver,106820
+resume_98.txt,jd_98.txt,4,Bachelors,San Francisco,51068
+resume_99.txt,jd_99.txt,12,PhD,Austin,75276
+resume_100.txt,jd_100.txt,15,Masters,Boston,70698
+resume_101.txt,jd_101.txt,26,Bachelors,New York,103229
+resume_102.txt,jd_102.txt,20,Masters,New York,101984
+resume_103.txt,jd_103.txt,24,Masters,San Francisco,112106
+resume_104.txt,jd_104.txt,5,PhD,Atlanta,59841
+resume_105.txt,jd_105.txt,20,Masters,New York,105955
+resume_106.txt,jd_106.txt,1,Masters,Boston,38433
+resume_107.txt,jd_107.txt,23,Bachelors,Atlanta,72340
+resume_108.txt,jd_108.txt,17,Masters,Denver,70582
+resume_109.txt,jd_109.txt,10,PhD,Denver,71169
+resume_110.txt,jd_110.txt,5,Masters,Boston,47392
+resume_111.txt,jd_111.txt,30,PhD,Boston,109161
+resume_112.txt,jd_112.txt,6,Masters,Denver,51640
+resume_113.txt,jd_113.txt,17,PhD,San Francisco,104286
+resume_114.txt,jd_114.txt,13,Bachelors,New York,73766
+resume_115.txt,jd_115.txt,12,Bachelors,Seattle,71931
+resume_116.txt,jd_116.txt,13,Bachelors,Boston,55437
+resume_117.txt,jd_117.txt,14,Bachelors,New York,79779
+resume_118.txt,jd_118.txt,0,PhD,Atlanta,52859
+resume_119.txt,jd_119.txt,26,Masters,Atlanta,95239
+resume_120.txt,jd_120.txt,10,PhD,New York,88765
+resume_121.txt,jd_121.txt,28,Bachelors,New York,111663
+resume_122.txt,jd_122.txt,6,Masters,Seattle,70406
+resume_123.txt,jd_123.txt,15,Masters,Atlanta,65634
+resume_124.txt,jd_124.txt,0,PhD,Seattle,63544
+resume_125.txt,jd_125.txt,16,Masters,Seattle,94866
+resume_126.txt,jd_126.txt,15,Masters,Austin,68650
+resume_127.txt,jd_127.txt,27,Bachelors,Denver,84668
+resume_128.txt,jd_128.txt,15,Masters,Atlanta,65823
+resume_129.txt,jd_129.txt,11,Masters,San Francisco,85204
+resume_130.txt,jd_130.txt,26,Bachelors,Denver,78206
+resume_131.txt,jd_131.txt,25,Masters,Seattle,112483
+resume_132.txt,jd_132.txt,5,PhD,Atlanta,56048
+resume_133.txt,jd_133.txt,20,PhD,Boston,88929
+resume_134.txt,jd_134.txt,12,Masters,Denver,65849
+resume_135.txt,jd_135.txt,2,Masters,New York,61923
+resume_136.txt,jd_136.txt,28,Bachelors,New York,116789
+resume_137.txt,jd_137.txt,11,Bachelors,San Francisco,68064
+resume_138.txt,jd_138.txt,5,Bachelors,Chicago,41470
+resume_139.txt,jd_139.txt,1,Bachelors,Boston,33922
+resume_140.txt,jd_140.txt,27,Bachelors,Boston,84281
+resume_141.txt,jd_141.txt,10,Masters,Austin,56978
+resume_142.txt,jd_142.txt,2,Bachelors,Austin,30336
+resume_143.txt,jd_143.txt,0,Bachelors,San Francisco,34868
+resume_144.txt,jd_144.txt,6,Bachelors,Austin,37832
+resume_145.txt,jd_145.txt,21,PhD,New York,120732
+resume_146.txt,jd_146.txt,0,Bachelors,Boston,29997
+resume_147.txt,jd_147.txt,17,Bachelors,New York,86796
+resume_148.txt,jd_148.txt,0,Masters,San Francisco,55438
+resume_149.txt,jd_149.txt,3,PhD,Atlanta,60333
+resume_150.txt,jd_150.txt,9,PhD,San Francisco,90035
+resume_151.txt,jd_151.txt,30,Masters,Denver,101565
+resume_152.txt,jd_152.txt,26,Bachelors,Austin,78204
+resume_153.txt,jd_153.txt,11,PhD,Denver,68537
+resume_154.txt,jd_154.txt,0,PhD,Chicago,47435
+resume_155.txt,jd_155.txt,11,Masters,San Francisco,82213
+resume_156.txt,jd_156.txt,20,PhD,San Francisco,118450
+resume_157.txt,jd_157.txt,17,Bachelors,Boston,67740
+resume_158.txt,jd_158.txt,8,Bachelors,Chicago,44685
+resume_159.txt,jd_159.txt,25,PhD,Boston,97213
+resume_160.txt,jd_160.txt,14,Bachelors,New York,71249
+resume_161.txt,jd_161.txt,23,Masters,Boston,90220
+resume_162.txt,jd_162.txt,16,Bachelors,Austin,66030
+resume_163.txt,jd_163.txt,3,PhD,Atlanta,56583
+resume_164.txt,jd_164.txt,14,Masters,San Francisco,85860
+resume_165.txt,jd_165.txt,28,Masters,Atlanta,99948
+resume_166.txt,jd_166.txt,6,Bachelors,Atlanta,39044
+resume_167.txt,jd_167.txt,2,PhD,Boston,52976
+resume_168.txt,jd_168.txt,20,Bachelors,Boston,66867
+resume_169.txt,jd_169.txt,1,Masters,Austin,46464
+resume_170.txt,jd_170.txt,30,Masters,San Francisco,128131
+resume_171.txt,jd_171.txt,25,PhD,Atlanta,100936
+resume_172.txt,jd_172.txt,19,Bachelors,Boston,72130
+resume_173.txt,jd_173.txt,8,PhD,Chicago,63153
+resume_174.txt,jd_174.txt,23,PhD,Austin,93252
+resume_175.txt,jd_175.txt,24,PhD,San Francisco,122685
+resume_176.txt,jd_176.txt,4,Masters,Chicago,51107
+resume_177.txt,jd_177.txt,16,PhD,Denver,86959
+resume_178.txt,jd_178.txt,2,Bachelors,New York,39864
+resume_179.txt,jd_179.txt,30,Bachelors,Atlanta,93737
+resume_180.txt,jd_180.txt,2,Masters,San Francisco,52533
+resume_181.txt,jd_181.txt,19,Bachelors,San Francisco,91721
+resume_182.txt,jd_182.txt,1,Masters,New York,51847
+resume_183.txt,jd_183.txt,7,Masters,Austin,53953
+resume_184.txt,jd_184.txt,17,Bachelors,San Francisco,85644
+resume_185.txt,jd_185.txt,29,Bachelors,Denver,86905
+resume_186.txt,jd_186.txt,25,Masters,San Francisco,114887
+resume_187.txt,jd_187.txt,14,PhD,Seattle,102672
+resume_188.txt,jd_188.txt,11,PhD,New York,94138
+resume_189.txt,jd_189.txt,14,Bachelors,Atlanta,62979
+resume_190.txt,jd_190.txt,8,Masters,New York,74416
+resume_191.txt,jd_191.txt,27,Masters,Denver,97982
+resume_192.txt,jd_192.txt,10,Masters,Boston,56378
+resume_193.txt,jd_193.txt,22,Bachelors,Chicago,72552
+resume_194.txt,jd_194.txt,14,Masters,Boston,72161
+resume_195.txt,jd_195.txt,24,Masters,Chicago,89338
+resume_196.txt,jd_196.txt,23,Masters,Boston,85064
+resume_197.txt,jd_197.txt,2,Bachelors,Denver,30685
+resume_198.txt,jd_198.txt,10,Bachelors,Seattle,68959
+resume_199.txt,jd_199.txt,28,Masters,Boston,99691
+resume_200.txt,jd_200.txt,30,PhD,Denver,112033
+resume_201.txt,jd_201.txt,16,Masters,Austin,70182
+resume_202.txt,jd_202.txt,0,PhD,San Francisco,66400
+resume_203.txt,jd_203.txt,7,Masters,Atlanta,51929
+resume_204.txt,jd_204.txt,21,Bachelors,Atlanta,75257
+resume_205.txt,jd_205.txt,0,PhD,New York,66936
+resume_206.txt,jd_206.txt,2,Bachelors,Boston,33434
+resume_207.txt,jd_207.txt,26,Bachelors,Austin,79946
+resume_208.txt,jd_208.txt,18,PhD,Chicago,84025
+resume_209.txt,jd_209.txt,27,Masters,Chicago,98670
+resume_210.txt,jd_210.txt,25,Masters,Denver,94573
+resume_211.txt,jd_211.txt,30,PhD,Atlanta,108261
+resume_212.txt,jd_212.txt,3,PhD,Austin,55098
+resume_213.txt,jd_213.txt,10,Masters,New York,79351
+resume_214.txt,jd_214.txt,27,Bachelors,Boston,79293
+resume_215.txt,jd_215.txt,22,Bachelors,Atlanta,76581
+resume_216.txt,jd_216.txt,2,PhD,Boston,57803
+resume_217.txt,jd_217.txt,12,Masters,New York,86365
+resume_218.txt,jd_218.txt,2,Bachelors,Boston,34401
+resume_219.txt,jd_219.txt,20,PhD,Atlanta,86394
+resume_220.txt,jd_220.txt,1,Masters,Seattle,59395
+resume_221.txt,jd_221.txt,27,PhD,Seattle,134221
+resume_222.txt,jd_222.txt,14,Masters,Boston,67787
+resume_223.txt,jd_223.txt,3,Bachelors,Austin,38566
+resume_224.txt,jd_224.txt,18,Masters,Seattle,94364
+resume_225.txt,jd_225.txt,2,PhD,Austin,54285
+resume_226.txt,jd_226.txt,8,Bachelors,San Francisco,63294
+resume_227.txt,jd_227.txt,19,Bachelors,San Francisco,83460
+resume_228.txt,jd_228.txt,24,Masters,Chicago,91965
+resume_229.txt,jd_229.txt,23,Bachelors,Atlanta,75925
+resume_230.txt,jd_230.txt,9,Masters,Seattle,80261
+resume_231.txt,jd_231.txt,19,Masters,San Francisco,97462
+resume_232.txt,jd_232.txt,12,Bachelors,Chicago,51041
+resume_233.txt,jd_233.txt,4,Bachelors,Denver,42321
+resume_234.txt,jd_234.txt,30,Masters,Atlanta,99248
+resume_235.txt,jd_235.txt,0,Bachelors,Atlanta,25218
+resume_236.txt,jd_236.txt,24,Masters,New York,110613
+resume_237.txt,jd_237.txt,10,Bachelors,Denver,46792
+resume_238.txt,jd_238.txt,17,Bachelors,New York,86253
+resume_239.txt,jd_239.txt,29,Masters,Austin,102096
+resume_240.txt,jd_240.txt,1,Masters,New York,57755
+resume_241.txt,jd_241.txt,10,Bachelors,New York,63727
+resume_242.txt,jd_242.txt,20,Bachelors,San Francisco,95767
+resume_243.txt,jd_243.txt,30,PhD,Denver,105328
+resume_244.txt,jd_244.txt,24,Bachelors,New York,102674
+resume_245.txt,jd_245.txt,23,Bachelors,Austin,72427
+resume_246.txt,jd_246.txt,8,PhD,Seattle,87125
+resume_247.txt,jd_247.txt,12,Bachelors,Austin,49921
+resume_248.txt,jd_248.txt,4,PhD,New York,73470
+resume_249.txt,jd_249.txt,1,Bachelors,New York,40657
+resume_250.txt,jd_250.txt,10,Masters,Austin,63372
+resume_251.txt,jd_251.txt,2,Masters,San Francisco,54329
+resume_252.txt,jd_252.txt,22,Masters,Atlanta,81022
+resume_253.txt,jd_253.txt,28,Masters,Atlanta,91344
+resume_254.txt,jd_254.txt,20,PhD,Denver,91767
+resume_255.txt,jd_255.txt,23,PhD,Atlanta,98103
+resume_256.txt,jd_256.txt,16,PhD,Boston,80148
+resume_257.txt,jd_257.txt,1,Masters,Austin,38713
+resume_258.txt,jd_258.txt,14,Masters,Austin,66442
+resume_259.txt,jd_259.txt,25,PhD,New York,133471
+resume_260.txt,jd_260.txt,5,PhD,Chicago,59513
+resume_261.txt,jd_261.txt,16,Masters,Denver,74110
+resume_262.txt,jd_262.txt,29,Bachelors,San Francisco,110382
+resume_263.txt,jd_263.txt,4,PhD,Chicago,59353
+resume_264.txt,jd_264.txt,21,Masters,Denver,79333
+resume_265.txt,jd_265.txt,19,Bachelors,Boston,64757
+resume_266.txt,jd_266.txt,22,Bachelors,San Francisco,92306
+resume_267.txt,jd_267.txt,18,PhD,Chicago,88068
+resume_268.txt,jd_268.txt,17,Bachelors,New York,78923
+resume_269.txt,jd_269.txt,28,Masters,Seattle,122752
+resume_270.txt,jd_270.txt,7,Bachelors,Austin,45593
+resume_271.txt,jd_271.txt,22,PhD,Boston,93420
+resume_272.txt,jd_272.txt,2,PhD,San Francisco,72756
+resume_273.txt,jd_273.txt,16,Bachelors,Atlanta,62940
+resume_274.txt,jd_274.txt,22,Masters,Austin,85811
+resume_275.txt,jd_275.txt,4,Bachelors,Austin,42383
+resume_276.txt,jd_276.txt,20,PhD,Chicago,92082
+resume_277.txt,jd_277.txt,13,Bachelors,Denver,53236
+resume_278.txt,jd_278.txt,12,PhD,Chicago,74724
+resume_279.txt,jd_279.txt,19,PhD,Austin,89625
+resume_280.txt,jd_280.txt,19,Bachelors,San Francisco,92011
+resume_281.txt,jd_281.txt,27,Masters,Boston,97001
+resume_282.txt,jd_282.txt,21,Bachelors,San Francisco,97746
+resume_283.txt,jd_283.txt,24,Masters,Boston,85339
+resume_284.txt,jd_284.txt,29,Masters,Atlanta,101980
+resume_285.txt,jd_285.txt,4,Bachelors,Austin,41860
+resume_286.txt,jd_286.txt,26,PhD,Seattle,131408
+resume_287.txt,jd_287.txt,24,PhD,Chicago,99079
+resume_288.txt,jd_288.txt,8,PhD,San Francisco,86953
+resume_289.txt,jd_289.txt,25,Masters,Atlanta,88723
+resume_290.txt,jd_290.txt,19,Masters,Denver,77358
+resume_291.txt,jd_291.txt,23,Masters,Chicago,84667
+resume_292.txt,jd_292.txt,22,PhD,New York,121379
+resume_293.txt,jd_293.txt,2,Masters,Denver,39176
+resume_294.txt,jd_294.txt,28,PhD,Atlanta,106468
+resume_295.txt,jd_295.txt,1,Masters,Chicago,45351
+resume_296.txt,jd_296.txt,2,PhD,New York,68163
+resume_297.txt,jd_297.txt,11,Masters,San Francisco,84127
+resume_298.txt,jd_298.txt,23,Bachelors,Denver,75579
+resume_299.txt,jd_299.txt,28,PhD,New York,139726
+resume_300.txt,jd_300.txt,4,PhD,New York,76164
+resume_301.txt,jd_301.txt,8,Masters,San Francisco,70898
+resume_302.txt,jd_302.txt,5,Bachelors,Atlanta,40565
+resume_303.txt,jd_303.txt,16,Bachelors,San Francisco,83773
+resume_304.txt,jd_304.txt,10,Masters,San Francisco,78814
+resume_305.txt,jd_305.txt,10,Masters,Atlanta,61752
+resume_306.txt,jd_306.txt,28,PhD,Boston,104649
+resume_307.txt,jd_307.txt,15,Masters,Austin,73994
+resume_308.txt,jd_308.txt,10,PhD,Boston,72894
+resume_309.txt,jd_309.txt,6,Masters,Austin,53350
+resume_310.txt,jd_310.txt,8,Bachelors,New York,63792
+resume_311.txt,jd_311.txt,25,PhD,San Francisco,131944
+resume_312.txt,jd_312.txt,12,Masters,San Francisco,80608
+resume_313.txt,jd_313.txt,22,Bachelors,San Francisco,94531
+resume_314.txt,jd_314.txt,2,Masters,Atlanta,40850
+resume_315.txt,jd_315.txt,23,PhD,Austin,93013
+resume_316.txt,jd_316.txt,28,Masters,Boston,98672
+resume_317.txt,jd_317.txt,21,PhD,Boston,93183
+resume_318.txt,jd_318.txt,15,Bachelors,Denver,61345
+resume_319.txt,jd_319.txt,7,Masters,Boston,54689
+resume_320.txt,jd_320.txt,23,PhD,San Francisco,126162
+resume_321.txt,jd_321.txt,8,Masters,Austin,60938
+resume_322.txt,jd_322.txt,25,Bachelors,San Francisco,104266
+resume_323.txt,jd_323.txt,4,Bachelors,Austin,35416
+resume_324.txt,jd_324.txt,17,PhD,Atlanta,86933
+resume_325.txt,jd_325.txt,27,Bachelors,Boston,80438
+resume_326.txt,jd_326.txt,30,Bachelors,Chicago,85102
+resume_327.txt,jd_327.txt,10,PhD,Austin,72555
+resume_328.txt,jd_328.txt,0,PhD,Austin,49197
+resume_329.txt,jd_329.txt,17,Masters,Boston,72761
+resume_330.txt,jd_330.txt,22,Masters,Boston,86873
+resume_331.txt,jd_331.txt,12,PhD,Seattle,94453
+resume_332.txt,jd_332.txt,17,Bachelors,Seattle,83959
+resume_333.txt,jd_333.txt,12,Bachelors,Boston,55274
+resume_334.txt,jd_334.txt,0,Masters,Austin,43953
+resume_335.txt,jd_335.txt,30,Bachelors,Chicago,89630
+resume_336.txt,jd_336.txt,9,PhD,Chicago,63643
+resume_337.txt,jd_337.txt,29,Masters,Boston,100892
+resume_338.txt,jd_338.txt,25,Bachelors,Austin,78607
+resume_339.txt,jd_339.txt,28,PhD,Atlanta,109902
+resume_340.txt,jd_340.txt,16,Masters,San Francisco,95850
+resume_341.txt,jd_341.txt,10,PhD,Denver,66357
+resume_342.txt,jd_342.txt,0,Masters,New York,49257
+resume_343.txt,jd_343.txt,5,PhD,New York,77606
+resume_344.txt,jd_344.txt,16,Masters,Austin,71822
+resume_345.txt,jd_345.txt,3,Masters,Atlanta,48667
+resume_346.txt,jd_346.txt,16,PhD,Denver,84129
+resume_347.txt,jd_347.txt,22,PhD,San Francisco,126985
+resume_348.txt,jd_348.txt,21,Bachelors,Austin,68272
+resume_349.txt,jd_349.txt,9,Masters,Austin,55383
+resume_350.txt,jd_350.txt,20,Bachelors,Atlanta,69908
+resume_351.txt,jd_351.txt,23,Bachelors,Austin,73213
+resume_352.txt,jd_352.txt,29,Masters,San Francisco,124329
+resume_353.txt,jd_353.txt,24,PhD,New York,128123
+resume_354.txt,jd_354.txt,16,Masters,Austin,67916
+resume_355.txt,jd_355.txt,13,Bachelors,Austin,51314
+resume_356.txt,jd_356.txt,21,Masters,New York,104369
+resume_357.txt,jd_357.txt,29,PhD,New York,136172
+resume_358.txt,jd_358.txt,16,Bachelors,Seattle,81251
+resume_359.txt,jd_359.txt,29,Bachelors,Austin,88073
+resume_360.txt,jd_360.txt,18,Masters,Boston,77307
+resume_361.txt,jd_361.txt,17,Bachelors,Austin,68483
+resume_362.txt,jd_362.txt,24,PhD,Boston,94654
+resume_363.txt,jd_363.txt,3,Masters,San Francisco,64395
+resume_364.txt,jd_364.txt,27,Bachelors,Denver,80514
+resume_365.txt,jd_365.txt,23,Masters,Seattle,111390
+resume_366.txt,jd_366.txt,15,Bachelors,Denver,63152
+resume_367.txt,jd_367.txt,21,PhD,Atlanta,96265
+resume_368.txt,jd_368.txt,23,Bachelors,San Francisco,98768
+resume_369.txt,jd_369.txt,5,PhD,Austin,63440
+resume_370.txt,jd_370.txt,22,PhD,New York,124709
+resume_371.txt,jd_371.txt,21,Masters,Austin,82428
+resume_372.txt,jd_372.txt,6,PhD,Atlanta,61492
+resume_373.txt,jd_373.txt,29,Bachelors,Atlanta,84361
+resume_374.txt,jd_374.txt,10,Bachelors,San Francisco,60497
+resume_375.txt,jd_375.txt,6,Masters,Boston,53310
+resume_376.txt,jd_376.txt,22,PhD,San Francisco,117253
+resume_377.txt,jd_377.txt,30,PhD,San Francisco,139588
+resume_378.txt,jd_378.txt,12,Bachelors,Austin,58011
+resume_379.txt,jd_379.txt,19,Masters,Seattle,98404
+resume_380.txt,jd_380.txt,19,Bachelors,Seattle,91547
+resume_381.txt,jd_381.txt,15,Masters,Denver,69840
+resume_382.txt,jd_382.txt,6,Bachelors,Chicago,39776
+resume_383.txt,jd_383.txt,3,Bachelors,Boston,40976
+resume_384.txt,jd_384.txt,9,Masters,Seattle,71754
+resume_385.txt,jd_385.txt,4,Masters,Austin,43822
+resume_386.txt,jd_386.txt,24,PhD,New York,127870
+resume_387.txt,jd_387.txt,23,PhD,Austin,95206
+resume_388.txt,jd_388.txt,16,Masters,San Francisco,97215
+resume_389.txt,jd_389.txt,5,Masters,Boston,47277
+resume_390.txt,jd_390.txt,28,Masters,Chicago,95059
+resume_391.txt,jd_391.txt,20,Masters,Denver,76680
+resume_392.txt,jd_392.txt,10,PhD,New York,86334
+resume_393.txt,jd_393.txt,30,PhD,Denver,112083
+resume_394.txt,jd_394.txt,6,Bachelors,Atlanta,45892
+resume_395.txt,jd_395.txt,21,Masters,Austin,82390
+resume_396.txt,jd_396.txt,22,Bachelors,Boston,78110
+resume_397.txt,jd_397.txt,6,Masters,Seattle,71955
+resume_398.txt,jd_398.txt,4,Masters,Atlanta,43723
+resume_399.txt,jd_399.txt,0,Masters,Boston,43146
+resume_400.txt,jd_400.txt,9,Masters,San Francisco,76049
+resume_401.txt,jd_401.txt,19,PhD,Denver,88391
+resume_402.txt,jd_402.txt,29,Masters,Seattle,130735
+resume_403.txt,jd_403.txt,11,Masters,Seattle,80390
+resume_404.txt,jd_404.txt,27,PhD,Seattle,136584
+resume_405.txt,jd_405.txt,2,Bachelors,Denver,31526
+resume_406.txt,jd_406.txt,3,Bachelors,Denver,36670
+resume_407.txt,jd_407.txt,21,Masters,Atlanta,81556
+resume_408.txt,jd_408.txt,26,Masters,Seattle,119722
+resume_409.txt,jd_409.txt,13,Masters,Chicago,65325
+resume_410.txt,jd_410.txt,25,Bachelors,New York,104820
+resume_411.txt,jd_411.txt,28,Bachelors,New York,112619
+resume_412.txt,jd_412.txt,10,PhD,Seattle,95200
+resume_413.txt,jd_413.txt,24,PhD,San Francisco,126331
+resume_414.txt,jd_414.txt,21,Masters,Atlanta,85393
+resume_415.txt,jd_415.txt,30,Bachelors,Seattle,121840
+resume_416.txt,jd_416.txt,21,Masters,Atlanta,80321
+resume_417.txt,jd_417.txt,27,PhD,San Francisco,137434
+resume_418.txt,jd_418.txt,28,PhD,Atlanta,109431
+resume_419.txt,jd_419.txt,24,PhD,Chicago,99370
+resume_420.txt,jd_420.txt,30,Bachelors,Boston,87818
+resume_421.txt,jd_421.txt,21,Bachelors,Atlanta,73096
+resume_422.txt,jd_422.txt,9,Masters,Seattle,72594
+resume_423.txt,jd_423.txt,0,Bachelors,San Francisco,39338
+resume_424.txt,jd_424.txt,26,Masters,Seattle,123225
+resume_425.txt,jd_425.txt,19,PhD,Boston,90828
+resume_426.txt,jd_426.txt,24,Masters,New York,116161
+resume_427.txt,jd_427.txt,12,PhD,Boston,75317
+resume_428.txt,jd_428.txt,15,Bachelors,Denver,55200
+resume_429.txt,jd_429.txt,17,PhD,New York,104323
+resume_430.txt,jd_430.txt,0,Bachelors,New York,41258
+resume_431.txt,jd_431.txt,19,Bachelors,New York,83998
+resume_432.txt,jd_432.txt,0,Bachelors,San Francisco,35057
+resume_433.txt,jd_433.txt,30,Bachelors,Atlanta,94894
+resume_434.txt,jd_434.txt,14,PhD,Atlanta,80369
+resume_435.txt,jd_435.txt,28,Bachelors,Boston,90723
+resume_436.txt,jd_436.txt,3,PhD,Chicago,51922
+resume_437.txt,jd_437.txt,5,Masters,Boston,48012
+resume_438.txt,jd_438.txt,0,Masters,New York,48742
+resume_439.txt,jd_439.txt,14,Masters,Seattle,84793
+resume_440.txt,jd_440.txt,3,Bachelors,Austin,40170
+resume_441.txt,jd_441.txt,17,Bachelors,Denver,68685
+resume_442.txt,jd_442.txt,9,Masters,New York,72060
+resume_443.txt,jd_443.txt,6,Masters,Atlanta,49037
+resume_444.txt,jd_444.txt,14,Masters,New York,92578
+resume_445.txt,jd_445.txt,5,Bachelors,Atlanta,41657
+resume_446.txt,jd_446.txt,18,PhD,Boston,86641
+resume_447.txt,jd_447.txt,4,Bachelors,Denver,33494
+resume_448.txt,jd_448.txt,1,PhD,Austin,50289
+resume_449.txt,jd_449.txt,1,PhD,Boston,56400
+resume_450.txt,jd_450.txt,2,PhD,Seattle,70571
+resume_451.txt,jd_451.txt,25,Bachelors,Austin,80143
+resume_452.txt,jd_452.txt,19,Bachelors,Chicago,66979
+resume_453.txt,jd_453.txt,2,Bachelors,Atlanta,34793
+resume_454.txt,jd_454.txt,22,Bachelors,Boston,72959
+resume_455.txt,jd_455.txt,3,Masters,Seattle,57827
+resume_456.txt,jd_456.txt,29,PhD,Denver,112382
+resume_457.txt,jd_457.txt,4,PhD,Seattle,73498
+resume_458.txt,jd_458.txt,16,Masters,Atlanta,75314
+resume_459.txt,jd_459.txt,15,Bachelors,New York,77926
+resume_460.txt,jd_460.txt,21,Masters,New York,110849
+resume_461.txt,jd_461.txt,7,Bachelors,Austin,48582
+resume_462.txt,jd_462.txt,17,PhD,Atlanta,87357
+resume_463.txt,jd_463.txt,9,Bachelors,Boston,52113
+resume_464.txt,jd_464.txt,11,Masters,Austin,57626
+resume_465.txt,jd_465.txt,5,Bachelors,Seattle,55926
+resume_466.txt,jd_466.txt,11,PhD,Boston,69447
+resume_467.txt,jd_467.txt,18,Bachelors,Austin,70790
+resume_468.txt,jd_468.txt,5,Masters,Austin,52549
+resume_469.txt,jd_469.txt,22,Masters,Boston,83425
+resume_470.txt,jd_470.txt,13,PhD,Boston,74548
+resume_471.txt,jd_471.txt,19,Masters,San Francisco,99854
+resume_472.txt,jd_472.txt,27,Bachelors,Boston,87591
+resume_473.txt,jd_473.txt,18,Bachelors,Boston,68319
+resume_474.txt,jd_474.txt,21,Bachelors,Boston,69901
+resume_475.txt,jd_475.txt,17,PhD,Chicago,84198
+resume_476.txt,jd_476.txt,14,Masters,Austin,68733
+resume_477.txt,jd_477.txt,21,PhD,Chicago,90890
+resume_478.txt,jd_478.txt,26,Masters,Boston,96449
+resume_479.txt,jd_479.txt,4,Masters,Austin,45717
+resume_480.txt,jd_480.txt,1,PhD,Atlanta,47753
+resume_481.txt,jd_481.txt,19,PhD,Austin,91571
+resume_482.txt,jd_482.txt,28,PhD,Boston,110664
+resume_483.txt,jd_483.txt,0,Masters,Chicago,36932
+resume_484.txt,jd_484.txt,3,PhD,Boston,51606
+resume_485.txt,jd_485.txt,14,Bachelors,Seattle,77354
+resume_486.txt,jd_486.txt,28,Masters,Denver,93750
+resume_487.txt,jd_487.txt,30,PhD,Boston,108251
+resume_488.txt,jd_488.txt,23,Bachelors,Austin,75766
+resume_489.txt,jd_489.txt,20,Masters,Atlanta,80242
+resume_490.txt,jd_490.txt,27,Masters,Boston,95073
+resume_491.txt,jd_491.txt,24,PhD,Boston,96044
+resume_492.txt,jd_492.txt,22,Masters,San Francisco,105940
+resume_493.txt,jd_493.txt,9,PhD,Chicago,65953
+resume_494.txt,jd_494.txt,2,PhD,Atlanta,52520
+resume_495.txt,jd_495.txt,3,PhD,Boston,55652
+resume_496.txt,jd_496.txt,30,PhD,Denver,114711
+resume_497.txt,jd_497.txt,28,Masters,Austin,99377
+resume_498.txt,jd_498.txt,22,Bachelors,San Francisco,100460
+resume_499.txt,jd_499.txt,17,Bachelors,San Francisco,88026
+resume_500.txt,jd_500.txt,24,Bachelors,Austin,81447
