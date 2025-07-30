@@ -1,0 +1,5 @@
+We are hiring a ML Engineer with at least 1 years of experience in Kubernetes and Azure.
+Requirements:
+- Expertise in Kubernetes, Azure, expressjs, Docker, Python
+- Strong problem-solving and analytical skills
+- Excellent communication and teamwork

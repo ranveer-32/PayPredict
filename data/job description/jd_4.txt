@@ -1,0 +1,5 @@
+We are hiring a DevOps Engineer with at least 5 years of experience in AWS and Python.
+Requirements:
+- Expertise in AWS, Python, GCP, NoSQL, expressjs
+- Strong problem-solving and analytical skills
+- Excellent communication and teamwork

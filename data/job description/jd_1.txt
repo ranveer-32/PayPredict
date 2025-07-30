@@ -1,0 +1,5 @@
+We are hiring a Data Scientist with at least 10 years of experience in Azure and NoSQL.
+Requirements:
+- Expertise in Azure, NoSQL, Computer Vision, ML, Keras
+- Strong problem-solving and analytical skills
+- Excellent communication and teamwork

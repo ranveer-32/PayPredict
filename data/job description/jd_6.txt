@@ -1,0 +1,5 @@
+We are hiring a Data Scientist with at least 9 years of experience in SQL and Docker.
+Requirements:
+- Expertise in SQL, Docker, ML, NoSQL, nodejs
+- Strong problem-solving and analytical skills
+- Excellent communication and teamwork

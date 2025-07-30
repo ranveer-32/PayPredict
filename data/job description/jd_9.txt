@@ -1,0 +1,5 @@
+We are hiring a Data Scientist with at least 8 years of experience in ML and GCP.
+Requirements:
+- Expertise in ML, GCP, nodejs, AWS, TensorFlow
+- Strong problem-solving and analytical skills
+- Excellent communication and teamwork

@@ -1,0 +1,5 @@
+We are hiring a Data Scientist with at least 7 years of experience in nodejs and Kubernetes.
+Requirements:
+- Expertise in nodejs, Kubernetes, SQL, NoSQL, NLP
+- Strong problem-solving and analytical skills
+- Excellent communication and teamwork

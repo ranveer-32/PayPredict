@@ -1,0 +1,5 @@
+We are hiring a Software Engineer with at least 8 years of experience in C++ and Java.
+Requirements:
+- Expertise in C++, Java, ML, NLP, Keras
+- Strong problem-solving and analytical skills
+- Excellent communication and teamwork

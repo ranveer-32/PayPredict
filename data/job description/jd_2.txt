@@ -1,0 +1,5 @@
+We are hiring a Backend Developer with at least 2 years of experience in SQL and expressjs.
+Requirements:
+- Expertise in SQL, expressjs, Docker, NoSQL, nodejs
+- Strong problem-solving and analytical skills
+- Excellent communication and teamwork

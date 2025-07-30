@@ -1,0 +1,5 @@
+We are hiring a Data Scientist with at least 9 years of experience in AWS and TensorFlow.
+Requirements:
+- Expertise in AWS, TensorFlow, Azure, GCP, Python
+- Strong problem-solving and analytical skills
+- Excellent communication and teamwork

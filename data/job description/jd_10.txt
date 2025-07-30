@@ -1,0 +1,5 @@
+We are hiring a Data Scientist with at least 3 years of experience in C++ and ML.
+Requirements:
+- Expertise in C++, ML, nodejs, NoSQL, Keras
+- Strong problem-solving and analytical skills
+- Excellent communication and teamwork

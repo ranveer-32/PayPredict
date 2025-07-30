@@ -1,0 +1,5 @@
+We are hiring a Software Engineer with at least 5 years of experience in Python and C++.
+Requirements:
+- Expertise in Python, C++, Kubernetes, Azure, Keras
+- Strong problem-solving and analytical skills
+- Excellent communication and teamwork
