@@ -8,9 +8,9 @@ import os
 
 st.title(" PayPredict: Smart Salary Estimator")
 
-model = joblib.load("E:\\payPredict\\models\\salary_model.pkl")
-scaler = joblib.load("E:\\payPredict\\models\\scaler.pkl")
-ohe = joblib.load("E:\\payPredict\\models\\ohe.pkl")
+model = joblib.load("models/salary_model.pkl")
+scaler = joblib.load("models/scaler.pkl")
+ohe = joblib.load("models/ohe.pkl")
 embedder = SentenceTransformer("all-MiniLM-L6-v2")
 
 education_levels = sorted(
